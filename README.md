@@ -94,7 +94,8 @@ Kode ini menghasilkan sebuah tombol yang diberi label "Reset Game" yang akan men
 
 Kode ini memulai eksekusi loop utama dalam antarmuka pengguna (GUI) tkinter, sehingga GUI akan berjalan dan siap menerima input dari pengguna.
 
-
+hasil
+![alt text](https://github.com/Takbirahmadf/Tugas-3/blob/main/280530468-afdbf534-e594-40b6-b17c-c7f6b991f3e1.png)
 
 Untuk setiap klik di kolom tersebut, klik pertama akan menampilkan "X" dan klik kedua akan menampilkan "O" pada kotak yang dipilih, dan hal ini akan berlangsung hingga terdapat sebaris "X" atau "O" baik secara vertikal, diagonal, atau horizontal yang menentukan hasil permainan. Jika terdapat hasil "X" atau "O" yang sebaris secara vertikal, diagonal, maupun horizontal maka akan muncul hasil permainan yang menunjukkan "Player X wins" atau "Player O wins"
 
